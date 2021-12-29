@@ -1,4 +1,5 @@
-## LTSpice and NE555, brief introduction to circuit simulation
+# LTSpice and NE555
+## Brief introduction to circuit simulation
 
 Circuit simulation greatly simplifies, speeds-up and lowers cost of design of circuits. We might say that complex designs cannot be done without extensive simulation.
 There are some tools for simulation and many of them are built around SPICE, some are also available at no cost. I’ve been using SPICE now and then with different names but the latest flavor for me is now Linear Technologies’ “LTSpice IV” :  it is freely downloadable from Linear Technologies’ website and works great.
